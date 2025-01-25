@@ -1,0 +1,4 @@
+title: "My GitHub Page"
+description: "A simple site created using Jekyll and Markdown"
+markdown: kramdown
+theme: minima
