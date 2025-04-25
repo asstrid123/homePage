@@ -1,4 +1,4 @@
-#Welcome to Erin Bartel's Page
+# Welcome to Erin Bartel's Page
 
 ![Your Picture](https://github.com/asstrid123/homePage/raw/666a337cc7985463d305dcd3a4353606e4b91e11/2021-04-12%20Erin%20Bartels%20web%20X4122376.jpg) 
 
