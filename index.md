@@ -7,7 +7,7 @@
 - [University of Houston CS Page](https://www.cs.uh.edu)
 - [LinkedIn Profile](https://www.linkedin.com/in/erin-bartels-167079205/)
 - [Download My Resume](https://github.com/asstrid123/homePage/raw/666a337cc7985463d305dcd3a4353606e4b91e11/%2B123-456-7890.pdf)
-
+- [Portfolio Page](portfolio.html)
 ## Google Analytics
 This website uses Google Analytics to collect traffic data.
 <!-- Google tag (gtag.js) -->
